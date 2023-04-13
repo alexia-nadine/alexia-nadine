@@ -5,9 +5,9 @@ Olá👋 Me chamo Alexia Nadine
 
 <div> 
 	<a href="https://github.com/Alexia4D">
-	<img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Alexia4D&show_icons=true&theme=midnight-purple&include_allcommits=true&count_private=true"/>
+	<img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Alexia4D&show_icons=true&theme=midnight-purple&include_allcommits=true&count_private=true"/>
   
-  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexia4D&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexia4D&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
